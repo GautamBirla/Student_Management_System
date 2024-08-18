@@ -35,9 +35,9 @@ cd student-management-system
 Create and Activate a Virtual Environment:
 python -m venv venv
 source venv/bin/activate
-**
+
 Install the Required Packages:
-** pip install -r requirements.txt
+pip install -r requirements.txt
 
 Apply Migrations:
 python manage.py migrate
